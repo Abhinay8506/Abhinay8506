@@ -2,7 +2,7 @@
 
 I am Abhinay Goswami
 
-I am B.tech(undergraduation) pursuing tech enthusiast.
+I am a B.tech(undergraduation) pursuing tech enthusiast.
 
 My specific domain of study is Computer Science-Artificial Intelligence and Data Science.
 
