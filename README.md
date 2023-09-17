@@ -14,4 +14,4 @@ How to reach me:
 
 https://linktr.ee/goswamiabhinay
 
-
+Email:abhinay.21GCEBAIDS059@galgotiacollege.edu
