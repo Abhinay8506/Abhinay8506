@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
 
-![Profile Banner](/Simple-Work-LinkedIn-Banner.pdf)
+![Profile Banner](/Banner.jpg)
 
 </div>
 
@@ -32,4 +32,11 @@ https://linktr.ee/goswamiabhinay
 
 ### Email:
 abhinay.21GCEBAIDS059@galgotiacollege.edu
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhinay8506&card_width=500)](https://git.io/streak-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Abhinay8506/count.svg" />
+</p>
 
