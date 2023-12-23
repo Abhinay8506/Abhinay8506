@@ -38,19 +38,20 @@ Also serving as a team leader in the IOT: Smart-Agriculture system automation pr
 
 ## Organisation:
 
-- [GDSC-GCET](https://github.com/GDSC-GCET.) 
+- [GDSC-GCET](https://github.com/GDSC-GCET.)
+  
 
 I am excited about the journey ahead and the opportunities to make a meaningful impact.
 
 I believe in the power of collaboration and am always eager to connect with like-minded professionals, industry leaders, and individuals who share a passion for technology. Let's connect and explore how we can mutually contribute to our professional growth.
 
 
-## My Tech Stack
+# My Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhinay8506&layout=donut-vertical&show_icons=true&theme=dark&title_color=04478d9&icon_color=04478d9&text_color=ffffff&bg_color=000)](https://github.com/Abhinay8506)
 
 <!-- ![image](https://www.researchsnipers.com/wp-content/uploads/2020/10/Programming-Language.png) -->
 
-## LINKS
+# LINKS
 ### All Link:
 https://linktr.ee/goswamiabhinay
 
