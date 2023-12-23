@@ -38,7 +38,7 @@ Also serving as a team leader in the IOT: Smart-Agriculture system automation pr
 
 ## Organisation:
 
-- [GDSC-GCET](https://github.com/GDSC-GCET.)
+- [GDSC-GCET](https://github.com/GDSC-GCET)
   
 
 I am excited about the journey ahead and the opportunities to make a meaningful impact.
