@@ -52,6 +52,7 @@ https://linktr.ee/goswamiabhinay
 
 ### Email:
 abhinay.21GCEBAIDS059@galgotiacollege.edu
+
 goswamiabhinay26@gmail.com
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhinay8506&card_width=500)](https://git.io/streak-stats)
