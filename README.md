@@ -12,13 +12,26 @@
 - [LINKS](#links)
 
 ## About ME
-I am Abhinay Goswami
-I am a B.tech(undergraduation) pursuing tech enthusiast.
-My specific domain of study is Computer Science-Artificial Intelligence and Data Science.
+I am a passionate learner and tech enthusiast with a proven track record in Tech.
+ 
+Academic Background:
+Currently, I am pursuing my 3rd year Bachelor in Technology in the domain of Computer Science -Artificial Intelligence and Data Science (2021-2025) at Galgotias College of Engineering and Technology.
+Average CGPA: 9.0 (Till now).
 
-I am passionate learner and Disciplined citizen.
+I have done my intermediate at Gyanshree School, Noida (2019-021) and high school at Maharishi Vidya Mandir, Noida(2017-019).
 
-Currently I am serving as Google Developer student Club-LEAD (2023-024) for our college.
+Expertise:
+1. DSA (Data Structure and Algorithms) problem-solving: I am a cpp-programmer with specialization in object-oriented approach. 
+2. Front-end Development: I am an aspiring full-stack developer and in the pathway of learning react-js.
+3. IOT(Internet of Things) Automation: I am working on a smart agriculture system automation project using Arduino UNO microcontroller. 
+
+Leadership:
+Currently, I am serving as the Google Developer Student Clubs(GDSC) Lead and leading a community of 600+ active members and a well-versed team of 60+ tech enthusiasts. I have organized various technical and collaboration events with my whole team at @GDSC-GCET [!https://github.com/GDSC-GCET].
+Also serving as a team leader in the IOT: Smart-Agriculture system automation project using Arduino UNO.
+
+I am excited about the journey ahead and the opportunities to make a meaningful impact.
+
+I believe in the power of collaboration and am always eager to connect with like-minded professionals, industry leaders, and individuals who share a passion for technology. Let's connect and explore how we can mutually contribute to our professional growth.
 
 
 ## My Tech Stack
@@ -27,7 +40,7 @@ Currently I am serving as Google Developer student Club-LEAD (2023-024) for our 
 <!-- ![image](https://www.researchsnipers.com/wp-content/uploads/2020/10/Programming-Language.png) -->
 
 ## LINKS
-### Commudle Link:
+### All Link:
 https://linktr.ee/goswamiabhinay
 
 ### Email:
