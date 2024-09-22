@@ -74,7 +74,9 @@ Also serving as a team leader in the IOT: Smart-Agriculture system automation pr
 <!-- ![image](https://www.researchsnipers.com/wp-content/uploads/2020/10/Programming-Language.png) -->
 
 # LINKS
-### All Link:
+
+## 🤝 Let's Connect:
+
 https://linktr.ee/goswamiabhinay
 
 ### Email:
