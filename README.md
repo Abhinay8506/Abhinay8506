@@ -39,8 +39,10 @@ Also serving as a team leader in the IOT: Smart-Agriculture system automation pr
 
 # 🚀 My Tech Stack
 
+<div display="flex">
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhinay8506&layout=donut-vertical&show_icons=true&theme=dark&title_color=04478d9&icon_color=04478d9&text_color=ffffff&bg_color=000)](https://github.com/Abhinay8506)
-
+</div>
 <div align="center">
 <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%#61DBFB">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -58,6 +60,7 @@ Also serving as a team leader in the IOT: Smart-Agriculture system automation pr
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+</div>
 </div>
 
 
