@@ -56,25 +56,22 @@ I am a passionate learner and tech enthusiast with a proven track record in Tech
  
 ## Academic Background:
 
-Currently, I am pursuing my 3rd year Bachelor in Technology in the domain of Computer Science -Artificial Intelligence and Data Science (2021-2025) at Galgotias College of Engineering and Technology.
-Average CGPA: 9.0 (Till now).
+Currently, I am pursuing mine 4th year Bachelor in Technology in the domain of Computer Science -Artificial Intelligence and Data Science (2021-2025) at Galgotias College of Engineering and Technology,Greater Noida.
+Average Percentage: 88.42(Till now).
 
 I have done my intermediate at Gyanshree School, Noida (2019-021) and high school at Maharishi Vidya Mandir, Noida(2017-019).
 
 ## Expertise:
 
-1. DSA (Data Structure and Algorithms) problem-solving: I am a cpp-programmer with specialization in object-oriented approach.
-   
-2. Front-end Development: I am an aspiring full-stack developer and in the pathway of learning react-js.
-   
-3. IOT(Internet of Things) Automation: I am working on a smart agriculture system automation project using Arduino UNO microcontroller. 
+1. DSA (Data Structure and Algorithms) problem-solving: I am a cpp-programmer with specialization in object-oriented approach. 
+2. Front-end Development: I am a passionate front-end Developer with expertise in Tailwind css and React.js library.
+3. Data Analysis : I have worked on many data analysis projects using python, pandas,numpy,matplotlib.
+4. IOT(Internet of Things) Automation: I have worked on a smart agriculture system automation project using Arduino UNO microcontroller. 
 
 ## Leadership:
 
-Currently, I am serving as the Google Developer Student Clubs(GDSC) Lead and leading a community of 600+ active members and a well-versed team of 60+ tech enthusiasts. 
-I have organized various technical and collaboration events with my whole team at @GDSC-GCET.
-
-Also serving as a team leader in the IOT: Smart-Agriculture system automation project using Arduino UNO.
+I have served as the Google Developer Student Clubs(GDSC) Lead for the tenure of 2023-024 and led the community of 1000+ active members and a well-versed team of 60+ tech enthusiasts. I have organized various technical and collaboration events with my whole team at @Google DSC GCET.
+Also served as a team leader in the IOT: Smart-Agriculture system automation project using Arduino UNO.
 
 
 <!-- ![image](https://www.researchsnipers.com/wp-content/uploads/2020/10/Programming-Language.png) -->
